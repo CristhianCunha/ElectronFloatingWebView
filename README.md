@@ -1,1 +1,1 @@
-ElectronFloatingWebView
+Floating-Webview-With-Electron
