@@ -10,6 +10,3 @@ com o comando "CTRL+9"
 
 Abrir/Fechar DevTools:
 com o comando "CTRL+J"
-
-Na pasta CompiledProjects se encontram versões executaveis do projeto para Windows 32 e 64 bits.
-
